@@ -1,3 +1,7 @@
+![me](https://lh5.googleusercontent.com/YssDNUBeQftQXSwluIMne_tdRVCKKC5YGRK_A0k3bPsNjpq5X414y_r9AVg2lLod4XYHTZoZija3ilKuEddQWLuaruXWI2vpiAKmONuKhD7mCd6rhN58kXmba8NqnAkcMEXRDoLD)
+
+
+
 # GCP-Dataflow
 GCP Dataflow  
 
@@ -9,6 +13,14 @@ GCP Dataflow
 - A pipeline can be run locally on your computer, remotely on a virtual machine in a data center, or by using the services of a cloud provider
 - To decide which will be the engine powering your pipeline, you need to specify a runner. Each runner has its own configuration, and it is associated with a backend service.
 - **Dataflow** is one of the runners available in Apache Beam.
+
+
+### Data Flow 
+- **Dataflow** is one of the runners available in Apache Beam.
+- It is a fully-managed data processing service with automated provisioning and management of processing resources.
+- Dataflow includes resource autoscaling and dynamic work rebalancing to maximize resource usage and automatically optimize your pipeline execution.
+- It is part of the Google Cloud ecosystem and uses horizontal service like logging and monitoring.
+- Dataflow allows you to separate computing storage resources.
 
 
 
